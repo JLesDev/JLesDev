@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @JLesDev
+- 👋 Hi, I’m Jonty
 
 Ask me about sports, statistics, and puzzles!
 
-Will collab 4 food.
-
-Studying a Bachelor of Computer Science (Advanced) in Australia.
+Studying a Bachelor of Mathematical and Computer Sciences in Australia.
 
 jontyleslie@gmail.com
 
