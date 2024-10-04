@@ -2,7 +2,7 @@
 
 Ask me about sports, statistics, and puzzles!
 
-Studying a Bachelor of Mathematical and Computer Sciences in Australia.
+Bachelor of Mathematical and Computer Sciences in Australia.
 
 jontyleslie@gmail.com
 
