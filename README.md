@@ -1,12 +1,15 @@
-<div align="left">
+<div align="center">
     <h1>Hi,</h1>
     <h2>I'm Jonty</h2>
-    <br/>
+    <br>
     <p>Ask me about sports, statistics, and puzzles!
 
 Bachelor of Mathematical and Computer Sciences in Australia.
 
-jontyleslie@gmail.com
+Contact me at: jontyleslie@gmail.com
+
+Working as a full-time software developer.
+
 </p>
 </div>
 
