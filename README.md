@@ -9,7 +9,7 @@ Bachelor of Mathematical and Computer Sciences in Australia.
 
 Contact me at: jontyleslie@gmail.com
 
-Working as a full-time software developer.
+<bold>Working as a full-time software developer.<bold/>
 
 </p>
 </div>
