@@ -1,6 +1,7 @@
 <div align="center">
-    <h1>Hi,</h1>
-    <h2>I'm Jonty</h2>
+    <h1>Hi,
+    I'm Jonty.
+    </h1>
     <br>
     <p>Ask me about sports, statistics, and puzzles!
 
