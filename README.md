@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi,
+    <h1 style="color:pink;">Hi,
     I'm Jonty.
     </h1>
     <p>Ask me about sports, statistics, and puzzles!
