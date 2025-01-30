@@ -4,7 +4,7 @@
     </h1>
     <p>Ask me about sports, statistics, and puzzles!
 
-Bachelor of Mathematical and Computer Sciences in Australia
+Bachelor of Mathematical and Computer Sciences in Australia.
 
 Contact me at: jontyleslie@gmail.com
 
