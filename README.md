@@ -2,7 +2,7 @@
     <h1 style="color: #FFC0CB;">Hi,
     I'm Jonty.
     </h1>
-    <p>Ask me about sports, statistics, and puzzles!
+    <p>Ask me about sports (AFL!), statistics, and puzzles!
 
 Bachelor of Mathematical and Computer Sciences in Australia.
 
