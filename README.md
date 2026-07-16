@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software Developer • Lover of many things • Office Warrior (sometimes)
+  Software Engineer 20 hours of the week • Watcher of Netflix 20 hours of the week • Project Manager 20 hours of the week
 </p>
 
 ---
