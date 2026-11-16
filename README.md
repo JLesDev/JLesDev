@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software Engineer 20 hours of the week • Watcher of Netflix 20 hours of the week • Project Manager 20 hours of the week
+  Assistant Manager of an IT Department in Melbourne
 </p>
 
 ---
